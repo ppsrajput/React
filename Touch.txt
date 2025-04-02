@@ -1,1 +1,3 @@
-this is touch file for testing.
+this is touch file for testing...
+git config --local user.name "PSRAJPUT"
+git config --local user.email "rajputprashant742@gmail.com"
